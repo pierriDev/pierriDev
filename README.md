@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Junior Software Developer
 
-cyclone A little more about me:
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png"/> A little more about me:
