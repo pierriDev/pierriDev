@@ -6,6 +6,13 @@
     <img src="https://camo.githubusercontent.com/a0b68c17f3820858b21f772008709470144f28adbc240d4fcc2a6125d594926e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436f6e746163742532304d65212d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6172746875722e646965676f6f40686f746d61696c2e636f6d" alt="Mail Me!" data-canonical-src="https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:arthur.diegoo@hotmail.com" style="max-width:100%;">
 </a>
 
+<p>
+    
+    <a target="_blank" rel="noopener noreferrer" href="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+        <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" data-canonical-src="https://i.ibb.co/QJZdmpv/XOsX.gif" style="max-width:100%;" width="100" height="100">
+    </a>
+
+</p>
 
 ## Junior Software Developer
 
