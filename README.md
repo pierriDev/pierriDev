@@ -37,12 +37,7 @@ class Vinnicius extends Human {
   technologies: {
     JavaScript:     ["React.js"];
     PHP:            ["Laravel"];
-    <!--Python:         ["Django", "TurboGears", "Flask", "Pyramid"];
-    GoLang:         ["Martini", "GinGonic", "Gorilla", "Mango"];
-    APIs:           ["REST", "SOAP", "GraphQL"];
-    Events:         ["RabbitMQ", "Kafka", "Redis"]; -->
-    Design:         ["Bootstrap",];
-    <!--CloudComputing: ["Serverless", "Amplify", "AWS", "Docker", "Kubernetes"]; -->
+    Design:         ["Bootstrap","TailWind"];
   };
 }
 ```
