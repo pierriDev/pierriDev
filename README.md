@@ -18,7 +18,7 @@ Junior Software Developer
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png"/> A little more about me:
 
-
+```
 class Vinnicius extends Human {
   name: string;
   nationality: string;
@@ -45,3 +45,4 @@ class Vinnicius extends Human {
     <!--CloudComputing: ["Serverless", "Amplify", "AWS", "Docker", "Kubernetes"]; -->
   };
 }
+```
