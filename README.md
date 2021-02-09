@@ -4,7 +4,7 @@
 
 <p><h1>A little more about me</h1></p>
 
-```
+``` React.js
 class Vinnicius extends Human {
   name: string;
   nationality: string;
