@@ -8,9 +8,9 @@
 
 <p>
     
-    <a target="_blank" rel="noopener noreferrer" href="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-        <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" data-canonical-src="https://i.ibb.co/QJZdmpv/XOsX.gif" style="max-width:100%;" width="100" height="100">
-    </a>
+<a target="_blank" rel="noopener noreferrer" href="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" data-canonical-src="https://i.ibb.co/QJZdmpv/XOsX.gif" style="max-width:100%;" width="100" height="100">
+</a>
 
 </p>
 
