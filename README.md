@@ -2,7 +2,7 @@
 
 ## Junior Software Developer
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png"/>  <h1>A little more about me</h1>
+<p><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png"/>  <h1>A little more about me</h1></p>
 
 ```
 class Vinnicius extends Human {
