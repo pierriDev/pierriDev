@@ -38,7 +38,7 @@ class Vinnicius extends Human {
   technologies: {
     JavaScript:     ["React.js"];
     PHP:            ["Laravel"];
-    Design:         ["Bootstrap","TailWind"];
+    Design:         ["Bootstrap","TailWind","Sass"];
   };
 }
 ```
